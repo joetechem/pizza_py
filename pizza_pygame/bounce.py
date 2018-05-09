@@ -1,5 +1,4 @@
 import sys, pygame
-import make_pizza
 
 # initialize pygame
 pygame.init()
